@@ -1,3 +1,4 @@
 a = int(input())
 for y in range(a+1):
     print(y)
+    print('+')
